@@ -22,3 +22,12 @@ Had a productive meeting with the WT customer to discuss the transition from Umb
 Fixed the issue where my Git activites weren't properly being tracked
 Met with my other customer on your Thur call.
 Had a great Cisco day!
+SCOR work for renewing my NP
+Look at some videos on Net as code
+apic:
+  access_policies:
+    vlan_pools:
+      - name: VLAN_POOL_1
+        ranges:
+          - from: 1000
+            to: 1099
