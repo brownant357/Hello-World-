@@ -31,7 +31,6 @@ apic:
         ranges:
           - from: 1000
             to: 1099
-
 SCOR work for renewing my NP
 Look at some videos on Net as code
 apic:
